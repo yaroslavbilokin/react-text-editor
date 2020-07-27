@@ -3,12 +3,26 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "@types/immutable": "^3.8.7",
+    "@types/slate": "^0.47.7",
+    "@types/slate-react": "^0.22.9",
+    "emotion": "^10.0.27",
+    "escape-html": "^1.0.3",
+    "immutable": "^4.0.0-rc.12",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "slate": "^0.58.3",
+    "slate-history": "^0.58.3",
+    "slate-html-serializer": "^0.8.13",
+    "slate-hyperscript": "^0.58.4",
+    "slate-plain-serializer": "^0.7.13",
+    "slate-react": "^0.58.3"
   },
   "scripts": {
     "start": "react-scripts start",
